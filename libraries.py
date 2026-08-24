@@ -24,3 +24,11 @@ x=[1,2,3]
 y=[4,5,6]
 plt.plot(x,y)
 plt.show()
+
+
+#SCIPY PROGRAMME :
+
+from scipy import stats
+data = [10,20,30,40,50]
+print("Mean :",stats.tmean(data))
+print("Varience :",stats.tvar(data))

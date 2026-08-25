@@ -9,14 +9,14 @@ print(df)'''
 
 
 
-'''import pandas as pd
+import pandas as pd
 data = {
     "name": ["Shikhar","Saurabh","Shivam","Shivansh"],
     "Marks":[20,19,18,17]
 }
 df = pd.DataFrame(data)
 print(df)
-'''
+
 
 
 import pandas as pd

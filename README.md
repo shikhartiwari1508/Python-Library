@@ -86,7 +86,7 @@ You can run any other program by replacing the filename with the desired Python 
 
 ## 👨‍💻 Author
 
-**Shikhar Tiwari**
+**Mr. Shikhar Tiwari**
 
 - GitHub: [@shikhartiwari1508](https://github.com/shikhartiwari1508)
 - LinkedIn: [Shikhar Tiwari](https://www.linkedin.com/in/shikhar-tiwari-222007372/)
